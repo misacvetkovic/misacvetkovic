@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, my name is <a href="https://www.linkedin.com/in/mi%C5%A1a-cvetkovi%C4%87-759a9699/" target="_blank">Miša</a></h1>
-<h5 class="heading-element" dir="auto">
-<a href="https://dnlytras.com" rel="nofollow">website</a> /
-<a href="https://twitter.com/heyiammisa" rel="nofollow">twitter</a> /
+<h5 align="left">
+<a href="https://heyiammisa.com" rel="nofollow">website</a> |
+<a href="https://twitter.com/heyiammisa" rel="nofollow">twitter</a> |
 <a href="https://www.linkedin.com/in/mi%C5%A1a-cvetkovi%C4%87-759a9699/" rel="nofollow">linkedin</a>
 </h5>
 <h3 align="left">A passionate web developer from Serbia</h3>
