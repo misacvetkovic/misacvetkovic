@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://heyiammisa.com" rel="nofollow">website</a> |
+<a href="https://misacvetkovic.com" rel="nofollow">website</a> |
 <a href="https://twitter.com/heyiammisa" rel="nofollow">twitter</a> |
 <a href="https://www.linkedin.com/in/mi%C5%A1a-cvetkovi%C4%87-759a9699/" rel="nofollow">linkedin</a>
 </p>
