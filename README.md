@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Misa Cvetkovic</h1>
+<h1 align="left">Hi 👋, my name is <a href="https://www.linkedin.com/in/mi%C5%A1a-cvetkovi%C4%87-759a9699/" target="_blank">Miša</a></h1>
 <h3 align="left">A passionate web developer from Serbia</h3>
 
 <h3 align="left">Connect with me:</h3>
