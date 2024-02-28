@@ -2,7 +2,7 @@
 
 <h3 align="left">A passionate web developer from Serbia</h3>
 
-<h4 align="left">Connect with me:</h4>
+<h5 align="left">Connect with me:</h5>
 <h5 align="left">
 <a href="https://heyiammisa.com" rel="nofollow">website</a> |
 <a href="https://twitter.com/heyiammisa" rel="nofollow">twitter</a> |
