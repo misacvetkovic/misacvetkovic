@@ -9,3 +9,7 @@
 </p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=misacvetkovic&theme=blue-green&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=misacvetkovic&theme=dark&hide_border=false" alt="GitHub Streak" />
+</a>
